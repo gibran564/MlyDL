@@ -139,6 +139,6 @@ jupyter notebook 1_Data_Wrangling.ipynb
 
 *Practica 1 — Unidad 1 | Machine Learning y Deep Learning*
 
-*Instituto Tecnológico de Durango — 2024*
+*Instituto Tecnológico de Durango — 2026*
 
 </div>

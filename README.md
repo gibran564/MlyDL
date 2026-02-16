@@ -18,7 +18,7 @@
 | **Docente** | José Gabriel Rodríguez Rivas |
 | **Carrera** | Ingeniería Informática |
 | **Instituto** | Instituto Tecnológico de Durango |
-| **Semestre** | 2024 |
+| **Grupo** | 8IA |
 | **SATCA** | 3 - 2 - 5 |
 
 </div>
@@ -163,7 +163,7 @@ Cada práctica sigue la siguiente estructura homogénea:
 | Lenguajes | Frameworks / Librerias | Herramientas |
 |-----------|----------------------|--------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
+| | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
 | | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 | | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 | | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | |
